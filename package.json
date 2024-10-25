@@ -44,6 +44,10 @@
     "gatsby-optional-chaining": "^1.0.1",
     "prettier": "2.0.5"
   },
+  
+  
+   
+ 
   "repository": {
     "type": "git",
     "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
